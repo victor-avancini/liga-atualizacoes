@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "Liga 0.3.0",
+  "pub_date": "2026-10-11T22:52:25Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkYvSnZoc2RhUVRrckdYUXl0blRNaUxkNENJUFBnbnh2OG0yR0pxQnYyYzNGUGlKMHhVbEgrQWgzV0t4T05MM0dBcWJlMjdYbDRxc2FnYVNWc0dLUUN1cGd3bWlhUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU4OTY2CWZpbGU6TGlnYV8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKanNVam5hVE03VkI5K3ZldkRJR052RDljS0E4U3NiZ1RjazR1bmt6NjBmTXBvMTFUVEwyZkpSZjd1MVZIZDU1L0dwU3NMamdtYkFvQ21qQjBrQ2pvREE9PQo=",
+      "url": "https://raw.githubusercontent.com/victor-avancini/liga-atualizacoes/main/Liga_0.3.0_x64-setup.exe"
+    }
+  }
+}
